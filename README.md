@@ -1,5 +1,5 @@
 # Landmarks for Basel Face Model (3DMM)
-This page provides 2 types of landmark indices (anchor points or mark-up) for Basel Face Model.
+This page provides 2 types of landmark indices/anchor points for Basel Face Model.
 
 <img src="https://github.com/anilbas/BFMLandmarks/blob/master/img/68.jpg" alt="68 Landmarks" width="50%"><img src="https://github.com/anilbas/BFMLandmarks/blob/master/img/21.jpg" alt="21 Landmarks" width="50%">
 
